@@ -19,7 +19,7 @@ class: middle, slide-invert-colors
 ---
 
 class: middle, slide-invert-colors, slide-fullscreen-background
-background-image: url(images/IMG_6239-08.png)
+background-image: url(images/me.jpg)
 
 # O mnie
 
