@@ -2,7 +2,7 @@
 
 :clipboard: Slides for talk about `Console` on `ship.it #5`
 
-## Preview
+## Preview 🎉
 
 <https://piecioshka.github.io/slides-console-ninja>
 
